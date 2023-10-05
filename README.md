@@ -9,3 +9,6 @@
 
 - **Threads**의 회원가입 기능, 로그인 기능, 게시글 기능을 파악하고 개발합니다.
 - **백엔드**는 위 기능들을 구현하기 위해 **회원가입 API, 로그인 API, 게시글 CRUD API**를 개발합니다.
+
+# 기능정의서
+![FSD](./FeatureSpecificationDocument.png)
